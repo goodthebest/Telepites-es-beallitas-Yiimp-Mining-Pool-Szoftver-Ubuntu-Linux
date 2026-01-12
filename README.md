@@ -1,129 +1,112 @@
 <a id="readme"></a>
 
-# Crypto Mining Pool Setup Services
-# Mining Pool Software Expert: 
-## We Can Install Crypto Mining Pool for Any Algorithm or Altcoins.
-### This includes famous Bitcoin, Bitcoin Cash, BitcoinII/BC2, Dogecoin, Litecoin, Digibyte, Zcash and any other crypto altcoins of your choice, you just name it and we shall get it done for you.
+# Kriptobányászati medence beállítási szolgáltatások
+# Bányászati medence szoftverszakértő:
+## Kriptobányász medencét telepítünk bármely algoritmushoz vagy altcoinhoz.
+### Ebbe beletartozik a híres Bitcoin, Bitcoin Cash, Dogecoin, Litecoin, Digibyte és bármilyen más kripto‑altcoin, amit választasz; csak nevezd meg, és mi megvalósítjuk.
 
-Hire a Professional Yiimp Mining Pool Software Expert, Blockchain Developer, and Programmer for Customized Mining Pool Solutions. Free Initial Consultation: Contact Us Today!
-
-
+Bérelj profi Yiimp bányászati medence szoftver szakértőt, blokklánc‑fejlesztőt és programozót egyedi medence megoldásokhoz. Ingyenes első konzultáció: lépj velünk kapcsolatba még ma!
 
 <a id="01-contact-information"></a>
-### 📬 Contact Information
+### 📬 Kapcsolati információk
 
-
-- **Telegram:** [Click Here to Connect on Telegram](https://t.me/goodthebest)
-- **Email:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
+- **Telegram:** [Kattints ide, hogy csatlakozz Telegramon](https://t.me/goodthebest)
+- **E‑mail:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
 - **Discord:** `goodthebest`  
-  *To add on Discord:* Open Discord → Friends → Add Friend → Paste `goodthebest` → Send Request
-
+  *Discord hozzáadásához:* Nyisd meg a Discordot → Barátok → Barát hozzáadása → Illeszd be `goodthebest` → Küldj kérelmet
 
 <a id="toc"></a>
 
 <a id="table-of-contents"></a>
-## 📑 Table of Contents
+## 📑 Tartalomjegyzék
 
-- [ 📬 Contact Information](#01-contact-information)
+- [ 📬 Kapcsolati információk](#01-contact-information)
 
-- [Install & Set Up a Crypto Mining Pool on Yiimp Open Source Software for Any Cryptocurrency or Algorithm – Ready in Hours](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
+- [Yiimp nyílt forráskódú kriptobányász medence telepítése és beállítása bármely kriptovalutához vagy algoritmushoz – készen órák alatt](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
 
-- [Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
+- [Egyedi blokklánc‑fejlesztés és Yiimp bányász medence kódolási szolgáltatások szabadúszóként és független vállalkozóként](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
 
-- [Advanced Yiimp Features Available:](#21-advanced-features-available)
+- [Elérhető továbbfejlesztett Yiimp funkciók:](#21-advanced-features-available)
 
-- [Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
+- [Professzionális Yiimp bányász medence telepítés altcoinokhoz, algoritmusokhoz és egyedi kriptovalutákhoz](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
 
+- [Hogyan működik a Yiimp bányász medence beállítási folyamatunk](#4-how-our-yiimp-mining-pool-setup-process-works)
 
-- [How Our Cyrpto Mining Pool Setup Process Works](#4-how-our-yiimp-mining-pool-setup-process-works)
+- [Támogatott algoritmusok a Yiimp kriptobányász medencékhez](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
 
-
-- [Supported Algorithms for Yiimp Cryptocurrency Mining Pools](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
-
-
-- [Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
-
+- [Támogatott kriptovaluták egy‑ vagy többalgoritmusú Yiimp bányász medencékhez](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
 
 ---
 
-
-
-[⬆ Back to Top](#toc)
+[⬆ Vissza a tetejére](#toc)
 
 <a id="1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours"></a>
-## 1. Install & Set Up a Custom Yiimp Mining Pool for Any Cryptocurrency or Algorithm – Ready in Hours
-[⬆ Back to Top](#toc)
+## 1. Egyedi Yiimp bányász medence telepítése és beállítása bármely kriptovalutához vagy algoritmushoz – kész órák alatt
+[⬆ Vissza a tetejére](#toc)
 
-
-Whether you're looking to mine a single cryptocurrency solo, create a private pool for friends and family, or launch a public mining pool compatible with NiceHash, cloud mining, or MRR (MiningRigRentals), we offer comprehensive solutions tailored to your needs. Our Yiimp mining pool setup services support multiple coins and algorithms, ensuring seamless blockchain integration and high-performance mining operations.
+Akár egyetlen kriptovalutát szeretnél önállóan bányászni, akár privát medencét hoznál létre barátaidnak és családodnak, vagy nyilvános bányász medencét indítanál, amely kompatibilis a NiceHash-sel, felhőbányászattal vagy MRR-rel (MiningRigRentals), átfogó megoldásokat kínálunk, amelyek az igényeidhez igazodnak. Yiimp medence beállítási szolgáltatásaink több érmét és algoritmust támogatnak, biztosítva a zökkenőmentes blokklánc integrációt és a nagy teljesítményű bányászati műveleteket.
 
 <a id="2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors"></a>
-## 2. Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors
-[⬆ Back to Top](#toc)
+## 2. Egyedi blokklánc‑fejlesztés és Yiimp bányász medence kódolási szolgáltatások szabadúszóként és független vállalkozóként
+[⬆ Vissza a tetejére](#toc)
 
+Egyedi blokklánc projektekre specializálódunk, beleértve a Yiimp bányász medence módosításokat, algoritmus integrációkat és kriptovaluta forkolást. Kompatibilis Linux-alapú Ubuntu operációs rendszerekkel: 16.04, 18.04, 20.04, 22.04, 24.04 és 25.01.
 
-We specialize in customized blockchain projects, including Yiimp mining pool modifications, algorithm integrations, and cryptocurrency forking. Compatible with Linux-based Ubuntu operating systems: 16.04, 18.04, 20.04, 22.04,24.04 and 25.01.
+Szakértő csapatunk telepíti, konfigurálja és elindítja a Yiimp bányász medence szoftvert, hogy több kriptó tokent és érmét lehessen bányászni. Kezeljük az új érmék beállítását is, amelyek Bitcoin (SHA-256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11) vagy más forkoltak.
 
-Our expert team installs, configures, and launches Yiimp mining pool software to enable mining for multiple crypto tokens and coins. We also handle setups for new coins forked from Bitcoin (SHA-256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11), and more. We do have a solution for Zcash/zec mining pool using a software other than yiimp.
+A Blackcoin forkolt változata Yiimp-en bányászva blokkokat utasíthat el; megfelelő megoldásunk van erre, ha Blackcoin klónod nem fogad új blokkokat.
 
-Blackcoin's fork when mined on yiimp it might reject blocks, we do have a proper solution to this if your Blackcoin's clone is not accepting new blocks.
-
-For personalized Yiimp multi-coin pool setup, troubleshooting, or quick support, reach out via our contact details.
+Egyedi Yiimp multi‑coin medence beállítás, hibaelhárítás vagy gyors támogatás esetén keress minket elérhetőségeinken.
 
 <a id="21-advanced-features-available"></a>
-### 2.1. Advanced Yiimp Features Like Yiimp ASICBOOST Implementation for SHA256/SHA256D stratum and MWEB (LTC/scrypt) Available:
-[⬆ Back to Top](#toc)
+### 2.1. Fejlett Yiimp funkciók, mint a Yiimp ASICBOOST implementáció SHA256/SHA256D stratumhoz és MWEB (LTC/scrypt) elérhető
+[⬆ Vissza a tetejére](#toc)
 
-- **ASICBoost-Enabled Mining Stratum:** We do have custom Yiimp Asicboost implemented solution for Bitcoin, for other bitcoin family altcoins and SHA256/SHA256D algo coins, supporting most ASICboost machines, cloud mining NiceHash, or MiningRigRentals.
-- **MWEB-Enabled Merged Mining Pools:** For Litecoin, Dogecoin, Bellscoin, and other Scrypt coins, compatible with ASIC hardware, NiceHash, or MRR.
+- **ASICBoost‑es bányász stratum:** Van egy egyedi Yiimp Asicboost megoldásunk Bitcoinhoz, más bitcoin család altcoinokhoz és SHA256/SHA256D algoritmusú érmékhez, amely támogatja a legtöbb ASICboost gépet, a NiceHash felhőbányászatot vagy a MiningRigRentals szolgáltatást.
+- **MWEB‑es egyesített bányász medencék:** Litecoin, Dogecoin, Bellscoin és más Scrypt érmék számára, kompatibilis ASIC hardverrel, NiceHash-sel vagy MRR-rel.
 
-*Note:* This service is independent and not affiliated with platforms like Upwork, Freelancer.com, LinkedIn, Fiverr, Stack Overflow, Reddit, or similar. Initial consultations and technical discussions for Yiimp projects are free.
+*Megjegyzés:* Ez a szolgáltatás független, és nincs kapcsolatban olyan platformokkal, mint az Upwork, Freelancer.com, LinkedIn, Fiverr, Stack Overflow, Reddit vagy hasonlók. A Yiimp projektek kezdeti konzultációja és műszaki megbeszélése ingyenes.
 
 <a id="3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies"></a>
-## 3. Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies
-[⬆ Back to Top](#toc)
+## 3. Professzionális Yiimp bányász medence telepítés altcoinokhoz, algoritmusokhoz és egyedi kriptovalutákhoz
+[⬆ Vissza a tetejére](#toc)
 
+Indítsd el saját bányász medencédet teljes körű Yiimp beállítási szolgáltatásainkkal. Lazíts, amíg mi mindent elvégzünk az alapoktól kezdve, többek között:
 
-Launch your own mining pool with our end-to-end Yiimp setup services. Relax while we handle everything from scratch, including:
+- Kriptovaluta tárcák/démonok telepítése az általad választott érmékhez.
+- Szerver beállítása, konfigurálása és adminisztrációja a Yiimp bányász szoftverhez.
+- Szóló, privát vagy nyilvános medencék – ideális személyes használatra, barátokkal való megosztásra vagy nyitott közösségek számára.
+- Testreszabható medencedíjak (beállítható nullára vagy bármely százalékra, bármikor módosítható).
+- Kompatibilis CPU-val, GPU-val, ASIC-kal vagy külső szolgáltatásokkal, mint a NiceHash bérelt hash-ereje.
+- Támogatja a több érme és több algoritmus medencéket – adj hozzá több érmét/algoritmust igény szerint (ha a Yiimp és a szerver támogatja).
+- Folyamatos karbantartási szolgáltatások rendelkezésre állnak (minimális karbantartás a beállítás után).
+- Hibaelhárítás olyan problémákhoz, mint az elutasított blokkok, kifizetési hibák, egyedi nehézségek, vardiff, automatikus csere, démonok és egyebek.
+- Teljesítményoptimalizálás és finomhangolás a Yiimp és a szerver hatékonyságáért.
+- Egyedi funkciók vagy módosítások külön költségért.
+- Valódi szakmai tapasztalaton alapuló támogatás – nem támaszkodunk oktatóanyagokra, online kurzusokra vagy másodkézből származó tudásra.
 
-- Installation of cryptocurrency wallets/daemons for your chosen coins.
-- Server setup, configuration, and administration for Yiimp mining software.
-- Options for solo, private, or public mining pools – ideal for personal use, sharing with friends, or open communities.
-- Customizable pool fees (set to zero or any percentage, adjustable anytime).
-- Compatibility with CPUs, GPUs, ASICs, or external services like NiceHash for rented hashpower.
-- Support for multi-coin and multi-algorithm pools – add more coins/algos as needed (if supported by Yiimp and your server).
-- Ongoing maintenance services available (minimal upkeep required post-setup).
-- Troubleshooting for issues like rejected blocks, payout failures, custom difficulties, vardiff, auto-exchange, daemons, and more.
-- Performance optimization and tweaks for Yiimp and server efficiency.
-- Custom features or modifications at additional cost.
-- Backed by real-world expertise – no reliance on tutorials, online courses, or secondhand knowledge.
-
-**Important:** Yiimp pool software must be installed on an Ubuntu Linux distribution. It is not compatible with Windows, macOS, Android, Raspberry Pi, iOS, or alternative Linux distributions such as CentOS, Fedora, Debian, Arch, or Alpine. However, miners running any of these operating systems can still connect to a Yiimp pool.
+**Fontos:** A Yiimp medence szoftver csak Ubuntu Linux disztribúcióra telepíthető. Nem kompatibilis Windows, macOS, Android, Raspberry Pi, iOS vagy egyéb Linux disztribúciókkal, mint a CentOS, Fedora, Debian, Arch vagy Alpine. Azonban a bányászok, akik ilyen operációs rendszereket használnak, még mindig csatlakozhatnak Yiimp medencéhez.
 
 <a id="4-how-our-yiimp-mining-pool-setup-process-works"></a>
-## 4. How Our Yiimp Mining Pool Setup Process Works
-[⬆ Back to Top](#toc)
+## 4. Hogyan működik a Yiimp bányász medence beállítási folyamatunk
+[⬆ Vissza a tetejére](#toc)
 
+Nem szükséges letöltened semmilyen szoftvert vagy technikai feladatot végrehajtanod. Szakembereink kezelik az egész folyamatot. Szükséged lesz VPS-re, felhő szerverre (például AWS) vagy dedikált szerverre olyan szolgáltatóktól, mint a Digital Ocean, Vultr, Hetzner Cloud, Linode, vagy saját hardverre. A minimális specifikációk és az Ubuntu verziója a bányászati igényeidtől függenek.
 
-No downloads or technical actions needed on your end. Our experts manage the entire process. You'll need a VPS, cloud instance (e.g., AWS), or dedicated server from providers like Digital Ocean, Vultr, Hetzner Cloud, Linode, or your own hardware. Minimum specs and Ubuntu version depend on your mining requirements.
-
-📬 **For a quick consultation or custom quote, contact us directly:**  
+📬 **Gyors konzultációért vagy egyedi árajánlatért fordulj hozzánk közvetlenül:**  
 - Telegram: [https://t.me/goodthebest](https://t.me/goodthebest)  
-- Email: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
+- E‑mail: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
 - Discord: `goodthebest`
 
+Távolról dolgozunk **TeamViewer** vagy **AnyDesk** segítségével az átláthatóság érdekében (nincs szükség közvetlen szerver-hozzáférésre). Kérésre megadhatod a hozzáféréseket, és mi beállítjuk a medencét – később megváltoztathatod a jelszavakat.
 
-We work remotely via **TeamViewer** or **AnyDesk** for transparency (no direct server access required). Provide credentials if preferred, and we'll set up the pool – you can change passwords afterward.
-
-For a customized quote on Yiimp mining pool setup, blockchain development, or crypto mining services, contact us today for real-time discussions.
+Az egyedi Yiimp bányász medence beállítás, blokklánc fejlesztés vagy kriptobányász szolgáltatások árajánlatáért lépj kapcsolatba velünk még ma valós idejű megbeszéléshez.
 
 <a id="5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools"></a>
-## 5. Supported Algorithms for Yiimp Cryptocurrency Mining Pools
-[⬆ Back to Top](#toc)
+## 5. Támogatott algoritmusok a Yiimp kriptobányász medencékhez
+[⬆ Vissza a tetejére](#toc)
 
-
-Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a comprehensive list:
-
+Yiimp számos algoritmust támogat a hatékony kriptobányászathoz. Íme a teljes lista:
 | Algos       | Algos       | Algos       | Algos       | Algos       | Algos       |
 |-------------|-------------|-------------|-------------|-------------|-------------|
 | a5a        | fresh      | lyra2v2    | qubit      | timetravel | x14        |
@@ -152,15 +135,12 @@ Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a 
 | yespowerr24| yespowerr32| yespowerurx| x11gost    | x13bcd     | x16r-v2    |
 | xevan      | Xelishash  |            |            |            |            |
 
-
 <a id="6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools"></a>
-## 6. Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools
-[⬆ Back to Top](#toc)
-
+## 6. Támogatott kriptovaluták egy‑ vagy többalgoritmusú Yiimp bányász medencékhez
+[⬆ Vissza a tetejére](#toc)
 
 <details>
-<summary>Supported Cryptocurrencies for Single or Multi‑Algo Yiimp Mining Pools — We can configure Yiimp pools for most cryptocurrencies (with some exceptions). Here's an extensive list of supported coins for your mining pool setup:</summary>
-
+<summary>Támogatott kriptovaluták egy‑ vagy többalgoritmusú Yiimp bányász medencékhez — a Yiimp medencéket a legtöbb kriptovaluta számára be tudjuk állítani (néhány kivételtől eltekintve). Íme a támogatott érmék részletes listája a medencédhez:</summary>
 | Crypto Mining | Cryptocurrencies | Mining Pools | Altcoin | MiningPool | Alt Currency | Crypto Coins |
 |---------------|------------------|--------------|---------|------------|--------------|--------------|
 | Bitcoin BTC | XRP XRP | Ethereum ETH | Stellar XLM | Tether USDT | Bitcoin Cash BCH | EOS EOS |
